@@ -1,1 +1,1 @@
-# LINK: https://ztirk.github.io/shopping-cart/
+# LINK: https://ztirk.github.io/tic-tac-toe/
